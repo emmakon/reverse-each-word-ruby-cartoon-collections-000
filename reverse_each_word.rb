@@ -3,3 +3,5 @@ def reverse_each_word(string)
   array.reverse_each do
   end
 end
+
+puts reverse_each_word(string)
